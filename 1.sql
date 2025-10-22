@@ -1,1 +1,0 @@
-delete from Students where StudentID = 'STU20250817114933';
