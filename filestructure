@@ -1,0 +1,23 @@
+SCAPS/
+│
+├── app.py                     # Login & Home
+├── pages/
+│   ├── 1_🎓_Students_Analysis.py
+│   ├── 2_👨‍🏫_Faculty_Analysis.py
+│   ├── 3_💡_Energy_Analysis.py
+│   ├── 4_🍴_Canteen_Analysis.py
+│   └── 5_🏢_Facility_Analysis.py
+│
+├── db.py
+├── user_db.py
+├── auth.py
+├── data/
+├── SCAPS.db
+└── requirements.txt
+
+
+Completed code snippets:
+
+3_💡_Energy_Analysis
+2_👨‍🏫_Faculty_Analysis
+5_🏢_Facility_Analysis
